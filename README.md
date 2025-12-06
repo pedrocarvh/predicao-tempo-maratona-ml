@@ -1,4 +1,4 @@
-# Predição de Tempo Final em Maratona: XGBoost e Engenharia de Features 🎯
+# Predição de Tempo Final em Maratona Utilizando Machine Learning e Engenharia de Features de Desempenho
 
 ## Objetivo
 Prever o tempo oficial de conclusão de maratonistas utilizando **Machine Learning**, com base apenas nas informações dos primeiros 15 km da prova.
